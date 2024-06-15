@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "369949579174",
+    "firebase_url": "https://esp32-c256f-default-rtdb.firebaseio.com",
+    "project_id": "esp32-c256f",
+    "storage_bucket": "esp32-c256f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369949579174:android:4f8cae1458f55b05faa167",
+        "android_client_info": {
+          "package_name": "com.dustbin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOEqludvI52p3DYUFQuBoPRUai1mc7eHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
